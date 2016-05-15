@@ -1,5 +1,5 @@
 {
-  "name": "domready",
+  "name": "i2c-bus",
   "main": "i2c-bus.d.ts",
   "homepage": "https://github.com/fivdi/i2c-bus",
   "dependencies": {
