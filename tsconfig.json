@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+      "module": "commonjs"
+  },
+  "files": [
+    "i2c-bus.d.ts"
+  ]
+}

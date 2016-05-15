@@ -1,0 +1,8 @@
+{
+  "name": "domready",
+  "main": "i2c-bus.d.ts",
+  "homepage": "https://github.com/fivdi/i2c-bus",
+  "dependencies": {
+  },
+  "version": "1.0.0"
+}
