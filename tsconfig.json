@@ -3,6 +3,7 @@
       "module": "commonjs"
   },
   "files": [
-    "i2c-bus.d.ts"
+    "i2c-bus.d.ts",
+    "typings/main.d.ts"
   ]
 }

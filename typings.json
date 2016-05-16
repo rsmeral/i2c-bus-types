@@ -2,7 +2,9 @@
   "name": "i2c-bus",
   "main": "i2c-bus.d.ts",
   "homepage": "https://github.com/fivdi/i2c-bus",
-  "dependencies": {
-  },
-  "version": "1.0.0"
+  "dependencies": {},
+  "version": "1.0.0",
+  "ambientDependencies": {
+    "node": "registry:env/node#4.0.0+20160507210304"
+  }
 }
