@@ -1,0 +1,7 @@
+{
+  "name": "typed-i2c-bus",
+  "version": "1.0.0",
+  "repository": "github:rsmeral/typed-i2c-bus",
+  "license": "MIT",
+  "types": "index"
+}
