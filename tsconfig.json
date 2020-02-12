@@ -3,6 +3,6 @@
       "module": "commonjs"
   },
   "files": [
-    "i2c-bus.d.ts"
+    "index.d.ts"
   ]
 }

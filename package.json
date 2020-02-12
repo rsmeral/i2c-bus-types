@@ -13,12 +13,11 @@
     }
   ],
   "license": "MIT",
-  "types": "i2c-bus.d.ts",
   "devDependencies": {
     "@types/node": "^13.7.1"
   },
   "files": [
-    "i2c-bus.d.ts",
+    "index.d.ts",
     "LICENSE",
     "README.md",
     "package.json"
