@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "repository": "github:rsmeral/i2c-bus-types",
   "license": "MIT",
-  "types": "index"
+  "types": "i2c-bus.d.ts",
+  "devDependencies": {
+    "@types/node": "^13.7.1"
+  }
 }
