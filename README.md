@@ -12,8 +12,6 @@ In `tsconfig.json` of your project:
 ```json
 {
   "compilerOptions": {
-    ...
-
     "types": [
       "i2c-bus-types"
     ]
