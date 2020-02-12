@@ -2,6 +2,16 @@
   "name": "i2c-bus-types",
   "version": "1.0.0",
   "repository": "github:rsmeral/i2c-bus-types",
+  "contributors": [
+    {
+      "name": "Jason Heard",
+      "url": "https://github.com/101100"
+    },
+    {
+      "name": "Ron Smeral",
+      "url": "https://github.com/rsmeral"
+    }
+  ],
   "license": "MIT",
   "types": "i2c-bus.d.ts",
   "devDependencies": {
